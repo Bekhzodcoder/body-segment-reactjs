@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.webcam{
+  position: absolute;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 10;
+  width: 640px;
+  height: 480px;
+}
+
+.canvas{
+  position: absolute;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 10;
+  width: 640px;
+  height: 480px;
+}
